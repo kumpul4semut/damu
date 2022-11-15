@@ -1,7 +1,7 @@
 import { View, Text, StyleSheet } from 'react-native'
 import React, { useState } from 'react'
 
-const splash = () => {
+const Splash = () => {
   return (
     <View style={styles.container}>
       <Text style={styles.logo}>DAMU</Text>
@@ -26,4 +26,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default splash;
+export default Splash;
