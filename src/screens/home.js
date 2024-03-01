@@ -33,13 +33,6 @@ const Home = () => {
                   </Text>
                 </VStack>
               </Box>
-              <Image
-                source={require('../assets/masjid.jpg')} 
-                alt="Aang flying and surrounded by clouds"
-                height="100"
-                rounded="full"
-                width="100"
-              />
             </HStack>
           </Box>
           <Box
